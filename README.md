@@ -27,6 +27,15 @@ If there are any questions or suggestions for improvement, issues, discussions a
 
 ## Run it!
 
+### Run the application
+
+```bash
+./gradlew bootRun
+```
+
+### Run apps separately
+
+
 The factory:
 
     gradle :message-factory:bootRun
