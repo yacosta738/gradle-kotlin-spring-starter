@@ -1,6 +1,6 @@
 [versions]
 kotlin-logging = "3.0.4"
-lorem = "2.1"
+lorem = "2.2"
 j2html = "1.6.0"
 kotlin = "1.7.20"
 springBoot = "2.7.5"
