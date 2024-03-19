@@ -4,7 +4,7 @@ lorem = "2.1"
 j2html = "1.6.0"
 kotlin = "1.7.20"
 springBoot = "2.7.5"
-dokka = "1.7.20"
+dokka = "1.9.20"
 detekt = "1.21.0"
 
 [libraries]
